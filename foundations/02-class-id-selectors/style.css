@@ -1,0 +1,17 @@
+.class {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#numbahtoo {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 32px;
+
+}
+
+#numbahfooh {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
